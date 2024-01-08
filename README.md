@@ -2,9 +2,7 @@
   <a href="https://powertsone666.io">
     <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="MasterHead" />
   </a>
-  <img src="https://github.com/powerstone666.png" alt="GitHub Profile Picture" width="100" style="border-radius: 50%; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" />
 </div>
-
 
 <h1 align="center">Hi 👋, I'm IMRAN PASHA</h1>
 
@@ -30,7 +28,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=java-powerstone666&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=powerstone666&show_icons=true&locale=en"
     alt="powerstone666"
   />
 </p>
@@ -45,7 +43,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="sidramaraddy-m-5927121b0"
+      alt=""
       height="30"
       width="40"
   /></a>
@@ -94,3 +92,7 @@
 <h3 align="left"> 💻 Additional Programming Languages and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,git,github,linux,postman)](https://skillicons.dev)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=powerstone666&" alt="powerstone666" /></p>
+
