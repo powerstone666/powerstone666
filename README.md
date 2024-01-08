@@ -46,7 +46,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="@siddharth_2131"
+      alt=""
       height="30"
       width="40"
   /></a>
@@ -78,12 +78,12 @@
 
 <h3 align="left">🧰 Backend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=springio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 
 <h3 align="left">🗄️ Database</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,couchdb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 <h3 align="left"> 💻 Additional Programming Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,linux,jenkins,aws,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,git,github,linux,postman)](https://skillicons.dev)
