@@ -78,7 +78,7 @@
 
 <h3 align="left">🧰 Backend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=springio)](https://skillicons.dev)
 
 <h3 align="left">🗄️ Database</h3>
 
