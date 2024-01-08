@@ -1,6 +1,10 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://powertsone666.io)
+<div align="center">
+  <a href="https://powertsone666.io">
+    <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="MasterHead" />
+  </a>
+  <img src="https://github.com/powerstone666.png" alt="GitHub Profile Picture" width="100" style="border-radius: 50%; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" />
+</div>
 
-<img align="center" src="https://github.com/powerstone666.png" alt="GitHub Profile Picture" />
 
 <h1 align="center">Hi 👋, I'm IMRAN PASHA</h1>
 
