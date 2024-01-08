@@ -1,4 +1,4 @@
-[![MasterHead](assets/images/banner-img.gif)](https://sidram403.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://sidram403.io)
 <h1 align="center">Hi 👋, I'm IMRAN PASHA</h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
@@ -86,4 +86,4 @@
 
 <h3 align="left"> 💻 Additional Programming Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,git,github,linux,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,git,github,linux,postman)](https://skillicons.dev)
