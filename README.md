@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://powerstone666.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://myself.jpeg)
 <h1 align="center">Hi 👋, I'm IMRAN PASHA</h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
