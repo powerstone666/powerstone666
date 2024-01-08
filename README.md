@@ -1,4 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://powertsone666.io)
+
+<img align="center" src="https://github.com/powerstone666.png" alt="GitHub Profile Picture" />
+
 <h1 align="center">Hi 👋, I'm IMRAN PASHA</h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
@@ -23,7 +26,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=powerstone666&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=java-powerstone666&show_icons=true&locale=en"
     alt="powerstone666"
   />
 </p>
