@@ -4,9 +4,10 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on **Software Development**  
-- 🌱 I’m currently learning **Spring boot,AI/ML(tensorFlow)**  
-- 📫 How to reach me **siddharthpatil9108@gmail.com**  
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lUf4a3NZreL4_AOYCl_W6BnWjqQZZlYk/view?usp=sharing](https://drive.google.com/file/d/1lUf4a3NZreL4_AOYCl_W6BnWjqQZZlYk/view?usp=sharing)
+- 🌱 I’m currently learning **Spring boot,AI/ML(TensorFlow)**
+- 💬 Ask me about **DSA(Java), Full Stack Web Development (HTML,CSS, Javascript,React.js, Mysql,Spring boot)**
+- 📫 How to reach me **imranpasha8225@gmail.com**  
+
 
 <h2 align="center">📊 Github Stats</h2>
 
@@ -14,16 +15,16 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sidram403&show_icons=true&locale=en&layout=compact"
-    alt="sidram403"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=powerstone666&show_icons=true&locale=en&layout=compact"
+    alt="powerstone666"
   />
 </p>
 
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sidram403&show_icons=true&locale=en"
-    alt="sidram403"
+    src="https://github-readme-stats.vercel.app/api?username=powerstone666&show_icons=true&locale=en"
+    alt="powerstone666"
   />
 </p>
 </div> 
