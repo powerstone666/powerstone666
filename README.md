@@ -4,8 +4,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on **Software Development**  
-- 🌱 I’m currently learning **React, DSA , Software Design**  
-- 📝 I regularly write articles on [https://medium.com/@siddharthpatil9108](https://medium.com/@siddharthpatil9108)
+- 🌱 I’m currently learning **Spring boot,AI/ML(tensorFlow)**  
 - 📫 How to reach me **siddharthpatil9108@gmail.com**  
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lUf4a3NZreL4_AOYCl_W6BnWjqQZZlYk/view?usp=sharing](https://drive.google.com/file/d/1lUf4a3NZreL4_AOYCl_W6BnWjqQZZlYk/view?usp=sharing)
 
