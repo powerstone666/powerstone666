@@ -88,7 +88,7 @@ js,AI/ML(TensorFlow)**
 
 <h3 align="left">🗄️ Database</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev/icons?i=mongodb)
 
 <h3 align="left"> 💻 Additional Programming Languages and Tools</h3>
 
