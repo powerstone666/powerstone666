@@ -9,8 +9,9 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on **Software Development**  
-- 🌱 I’m currently learning **Spring boot,AI/ML(TensorFlow)**
-- 💬 Ask me about **DSA(Java), Full Stack Web Development (HTML,CSS, Javascript,React.js, Mysql,Spring boot)**
+- 🌱 I’m currently learning **Node
+js,AI/ML(TensorFlow)**
+- 💬 Ask me about **DSA(Java), Full Stack Web Development (HTML,CSS, Javascript,React.js, Mysql,Node.js,Express.js)**
 - 📫 How to reach me **imranpasha8225@gmail.com**  
 
 
@@ -87,7 +88,7 @@
 
 <h3 align="left">🗄️ Database</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql, mongodb)](https://skillicons.dev)
 
 <h3 align="left"> 💻 Additional Programming Languages and Tools</h3>
 
