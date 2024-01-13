@@ -80,11 +80,11 @@ js,AI/ML(TensorFlow)**
 
 <h3 align="left">🏄‍♂️ Frontend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular, bootstrap)](https://skillicons.dev)
 
 <h3 align="left">🧰 Backend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 <h3 align="left">🗄️ Database</h3>
 
