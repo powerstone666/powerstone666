@@ -29,7 +29,7 @@ js,AI/ML(TensorFlow)**
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=powerstone676&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=powerstone666&show_icons=true&locale=en"
     alt="powerstone666"
   />
 </p>
