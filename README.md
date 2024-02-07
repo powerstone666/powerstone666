@@ -21,7 +21,7 @@ js,AI/ML(TensorFlow)**
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=powerstone666&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=powerstone667&show_icons=true&locale=en&layout=compact"
     alt="powerstone666"
   />
 </p>
