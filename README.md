@@ -14,7 +14,7 @@ js,Express.js**
 - 💬 Ask me about **DSA(Java), Full Stack Web Development (HTML,CSS, Javascript,React.js, Mysql,Node.js,Express.js)**
 - 📫 How to reach me **imranpasha8225@gmail.com**  
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=powerstone666&label=Profile%20views&color=0e75b6&style=flat" alt="powerstone666" /> </p>
 <h2 align="center">📊 Github Stats</h2>
 
 <div align = "center">
