@@ -80,7 +80,7 @@ js,Express.js**
 
 <h3 align="left">🏄‍♂️ Frontend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite,tailwind)](https://skillicons.dev)
 
 <h3 align="left">🧰 Backend</h3>
 
