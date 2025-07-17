@@ -97,3 +97,12 @@ js,Express.js**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=powerstone666&" alt="powerstone666" /></p>
 
+<h2 align="center">📈 My Contribution Graph</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=powerstone666&bg_color=ffffff&color=268bd2&line=268bd2&point=1abc9c&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</div>
+
