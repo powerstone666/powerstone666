@@ -63,11 +63,16 @@
 
 **Enterprise Integrations:** Salesforce, Authorize.Net, DocuSign
 
+
 ### 🧪 Testing & Security
 
-[![Testing](https://skillicons.dev/icons?i=playwright,jest,postman)](https://skillicons.dev)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=jest,postman" alt="Jest and Postman" height="48" />
+</p>
 
-**Security:** RBAC, Penetration Testing, Strix AI, Gitleaks
+
+**Security:** RBAC, Penetration Testing,AI Based Security Testing, Git leaks
 
 ### 🤖 AI Engineering
 
@@ -157,32 +162,29 @@ An AI-powered pipeline that transforms trending topics into short-form YouTube v
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<div align="center">
-
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=powerstone666&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
     height="170"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=powerstone666&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     height="170"
   />
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=powerstone666&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
+    width="55%"
   />
-</div>
+</p>
 
 ---
 
@@ -190,10 +192,12 @@ An AI-powered pipeline that transforms trending topics into short-form YouTube v
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=powerstone666&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
+    src="https://ghchart.rshah.org/powerstone666"
+    alt="Imran Pasha's GitHub Contribution Graph"
+    width="100%"
   />
 </div>
+
 
 ---
 
